@@ -37,7 +37,7 @@
 			?>
 
 			<ul>
-				<li><a href="function/logout.php"><i class="icon-off icon-white"></i>logout</a></li>
+				<li><a href="function/logout.php"><i class="icon-off icon-white"></i> logout</a></li>
 				<li><a href="#profile" href  data-toggle="modal">Welcome:&nbsp;&nbsp;&nbsp;<i class="icon-user icon-white"></i><?php echo $fetch['firstname']; ?>&nbsp;<?php echo $fetch['lastname'];?></a></li>
 			</ul>
 	</div>
@@ -114,3 +114,4 @@
 </div>
 </body>
 </html>
+
