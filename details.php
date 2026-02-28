@@ -62,7 +62,7 @@
 						<center>
 							<table>
 								<tr>
-									<td class="profile">Name:</td><td class="profile"><?php echo $fetch['firstname'];?>&nbsp;<?php echo $fetch['mi'];?>&nbsp;<?php echo $fetch['lastname'];?></td>
+									<td class="profile">Name::</td><td class="profile"><?php echo $fetch['firstname'];?>&nbsp;<?php echo $fetch['mi'];?>&nbsp;<?php echo $fetch['lastname'];?></td>
 								</tr>
 								<tr>
 									<td class="profile">Address:</td><td class="profile"><?php echo $fetch['address'];?></td>
@@ -212,3 +212,4 @@
 	</div>
 </body>
 </html>
+
