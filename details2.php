@@ -146,7 +146,7 @@
 						<br />
 						<h4>Total: Rs <?php echo $row['product_price']; ?> </h4>
 						<br />
-						<input type="checkbox" required> I Agree the <a href="#terms" data-toggle="modal"> Terms and Condition</a> of Online Shoe Store Inc.
+						<input type="checkbox" required> I Agree The <a href="#terms" data-toggle="modal"> Terms and Condition</a> of Online Shoe Store Inc.
 					</center>
 				</div>
 			<div class="modal-footer">
@@ -169,8 +169,8 @@
 						<li>You are guaranteed that your product will be deliver 2-3 days upon ordering.</li>
 						<li>Guaranteed time maybe suspended depending on the weather conditions for the safety of our delivery personnel.</li>
 						<li>All prices quoted are in Philippine pesos. Price and availability information is subject to change without notice.</li>
-						<li>Mode of payment are as follows:customers with paypal account can pay through paypal otherwise Cash on Delivery(COD).</li>
-						<li>Upon receiving your product we will charge for delivering for only 150 pesos, depending on the location.</li>
+						<li>Mode of payment are as follows::customers with paypal account can pay through paypal otherwise Cash on Delivery(COD).</li>
+						<li>Upon receiving your product we will charge for delivering for only 1500 pesos, depending on the location.</li>
 					</ul>
 				</div>
 			<div class="modal-footer">
@@ -205,3 +205,4 @@
 	</div>
 </body>
 </html>
+
