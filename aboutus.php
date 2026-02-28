@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>CHAMAR Shoe Store</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>CHAMAR_Shoe _Store</title><meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<link rel="icon" href="img/logo.jpg" />
 	<link rel = "stylesheet" type = "text/css" href="css/style.css" media="all">
@@ -120,6 +120,7 @@
 				<h4>Links</h4>
 					<ul>
 						<a href="http://www.facebook.com/OnlineShoeStore"><li>Facebook</li></a>
+						<a href="http://www.Instagram.com/OnlineShoeStore"><li>Instagram</li></a>
 						<a href="http://www.twitter.com/OnlineShoeStore"><li>Twitter</li></a>
 						<a href="http://www.pinterest.com/OnlineShoeStore"><li>Pinterest</li></a>
 						<a href="http://www.tumblr.com/OnlineShoeStore"><li>Tumblr</li></a>
@@ -128,3 +129,4 @@
 	</div>
 </body>
 </html>
+
