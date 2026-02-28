@@ -112,7 +112,7 @@
 	<legend>About Us</legend>
 		<div id="content">
 			<legend><h3>Mission</h3></legend>
-					<h4 style="text-indent:60px;">To provide a high quality footwear that suit the athletes style and to be one of the leading sports footwear apparel in the country.</h4>
+					<h4 style="text-indent:60px;">To create innovative, high-quality sports footwear that enhances athlete performance and style, while building a leading brand in the sports apparel industry..</h4>
 			<br />
 				<legend><h3>Vision</h3></legend>
 					<h4 style="text-indent:60px;">Online Shoe Store, the company that inspire, motivate, and give determination to the sports enthusiast.</h4>
@@ -133,6 +133,7 @@
 				<h4>Links</h4>
 					<ul>
 						<a href="http://www.facebook.com/OnlineShoeStore"><li>Facebook</li></a>
+						<a href="http://www.Instagram.com/OnlineShoeStore"><li>Instagram</li></a>
 						<a href="http://www.twitter.com/OnlineShoeStore"><li>Twitter</li></a>
 						<a href="http://www.pinterest.com/OnlineShoeStore"><li>Pinterest</li></a>
 						<a href="http://www.tumblr.com/OnlineShoeStore"><li>Tumblr</li></a>
@@ -141,3 +142,4 @@
 	</div>
 </body>
 </html>
+
