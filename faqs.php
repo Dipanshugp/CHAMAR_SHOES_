@@ -117,7 +117,7 @@
 	<br />
 	<div id="footer">
 		<div class="foot">
-			<label style="font-size:17px;"> Copyrght &copy; </label><p style="font-size:25px;">Online Shoe Store 2021 </p>
+			<label style="font-size:17px;"> Copyrght &copy; </label><p style="font-size:25px;">Online Shoe Store 2026 </p>
 		</div>
 
 			<div id="foot">
@@ -132,3 +132,4 @@
 	</div>
 </body>
 </html>
+
