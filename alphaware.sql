@@ -20,8 +20,6 @@ SET time_zone = "+00:00";
 -- Database: `alphaware`
 --
 
--- --------------------------------------------------------
-
 --
 -- Table structure for table `admin`
 --
@@ -39,7 +37,6 @@ CREATE TABLE `admin` (
 INSERT INTO `admin` (`adminid`, `username`, `password`) VALUES
 (1, 'admin', 'admin');
 
--- --------------------------------------------------------
 
 --
 -- Table structure for table `contact`
@@ -51,7 +48,7 @@ CREATE TABLE `contact` (
   `message` varchar(1000) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
--- --------------------------------------------------------
+
 
 --
 -- Table structure for table `customer`
@@ -71,7 +68,7 @@ CREATE TABLE `customer` (
   `password` varchar(50) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
--- --------------------------------------------------------
+
 
 --
 -- Table structure for table `product`
@@ -184,7 +181,7 @@ CREATE TABLE `transaction` (
 -- --------------------------------------------------------
 
 --
--- Table structure for table `transaction_detail`
+-- Table structure for  table `transaction_detail`
 --
 
 CREATE TABLE `transaction_detail` (
@@ -271,4 +268,4 @@ ALTER TABLE `transaction_detail`
   MODIFY `transacton_detail_id` int(11) NOT NULL AUTO_INCREMENT;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
-/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+
